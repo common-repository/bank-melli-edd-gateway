@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bank Melli Iran EDD gateway\n"
+"POT-Creation-Date: 2018-03-06 00:19+0330\n"
+"PO-Revision-Date: 2018-03-06 00:20+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: Melli_for_EDD.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Melli_for_EDD.php:26
+msgid " Rial"
+msgstr " ریال"
+
+#: Melli_for_EDD.php:31
+msgid "Sadad Payment Gateway"
+msgstr "درگاه پرداخت سداد"
+
+#: Melli_for_EDD.php:51
+msgid "Connecting to the payment Gateway..."
+msgstr "در حال اتصال به درگاه پرداخت..."
+
+#: Melli_for_EDD.php:52
+msgid "Please wait..."
+msgstr "لطفا شکیبا باشید..."
+
+#: Melli_for_EDD.php:61
+msgid "An error occurred while connecting to the payment gateway[code: 00]."
+msgstr "هنگام اتصال به سرور درگاه پرداخت خطایی رخ داده است [کد خطا: 00]"
+
+#: Melli_for_EDD.php:118 Melli_for_EDD.php:119
+msgid "Error connecting to payment gateway.[code: 02]"
+msgstr "هنگام اتصال به سرور درگاه پرداخت خطایی رخ داده است. [کد خطا: 02]"
+
+#: Melli_for_EDD.php:126
+msgid "Error creating payment, please try again"
+msgstr "خطا در ایجاد پرداخت، لطفاً دوباره سعی کنید"
+
+#: Melli_for_EDD.php:161
+msgid ""
+"Transaction unsuccessful. if the amount of your bank account has been "
+"reduced. Until the end of today, your account will be refunded[code: 03]."
+msgstr ""
+"تراکنش با شکست مواجه شد. اگر مبلغی از حساب بانکی شما کم شده باشد تا پایان "
+"امروز به حساب شما برگشت داده خواهد شد [کد خطا: 03]."
+
+#: Melli_for_EDD.php:163
+msgid "Error in Bank Verification[code: 03]"
+msgstr "خطا در تائید پرداخت از سوی درگاه بانکی[کد: 03]"
+
+#: Melli_for_EDD.php:209
+msgid ""
+"Transaction unsuccessful. if the amount of your bank account has been "
+"reduced. Until the end of today, your account will be refunded[code: 04]."
+msgstr ""
+"تراکنش با شکست مواجه شد. اگر مبلغی از حساب بانکی شما کم شده باشد تا پایان "
+"امروز به حساب شما برگشت داده خواهد شد [کد خطا: 04]."
+
+#: Melli_for_EDD.php:222
+msgid "Transaction Number:"
+msgstr "شماره تراکنش:"
+
+#: Melli_for_EDD.php:233
+msgid "<b>Sadad Gateway Settings</b><br>Do not complete in the test mode"
+msgstr "<b>تنظیمات درگاه پرداخت سداد</b><br>در حالت آزمایشی تکمیل نکنید"
+
+#: Melli_for_EDD.php:239
+msgid "Merchant ID"
+msgstr "شماره پذیرنده"
+
+#: Melli_for_EDD.php:246
+msgid "Terminal ID"
+msgstr "شماره ترمينال"
+
+#: Melli_for_EDD.php:253
+msgid "Password"
+msgstr "رمز عبور"
+
+#: menu_setup.php:10
+msgid "Sadad for EDD"
+msgstr "درگاه سداد برای EDD"
+
+#: menu_setup.php:11
+msgid "About"
+msgstr "درباره"
+
+#: menu_setup.php:12
+msgid "Newsletters"
+msgstr "خبرنامه"
+
+#. Plugin Name of the plugin/theme
+msgid "Bank Melli Iran EDD gateway"
+msgstr "درگاه پرداخت الکترونیک سداد برای EDD"
+
+#. Plugin URI of the plugin/theme
+msgid "http://ham3da.ir/"
+msgstr "http://ham3da.ir/"
+
+#. Description of the plugin/theme
+msgid "Sadad payment gateway for Easy digital downloads(switch: 1)."
+msgstr "درگاه  پرداخت الکترونیک سداد برای Easy digital downloads (سوئیچ: 1)."
+
+#. Author of the plugin/theme
+msgid "Javad Ahshamian"
+msgstr "جواد احشامیان"
+
+#. Author URI of the plugin/theme
+msgid "https://ham3da.ir/"
+msgstr "https://ham3da.ir/"
